@@ -1,32 +1,48 @@
-## Blog Post Title From First Header
+## CISSP — 
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+### The Summer I Sat for the Exam
 
-If the file does not start with a header, then the post title will be derived from the filename.
+#### PROLOGUE
+I live behind the layers of a security engineer. But CISSP? It was a wall thicker than all the protocol stacks I’d climbed till now.
+It was mid-February, LEDs casting that blue-white digital hue across my apartment in Saitama, the kind of light that kills the distinction between sunset and screen glow. Five months—I made that plan, scratched it out between system alerts and snack wrappers.
+Other certificates, I’d torn through. But this? Never locked horns with something for so long. When I made it, the discharge was physical—static built up, finally grounded.
 
-This is a sample blog post. You can talk about all sorts of fun things here.
+#### HIGH-VOLTAGE PRESSURE
+The company would cover the exam—but only if I passed.
+¥150,000 is a number that throbs in the dark, a red light forever blinking peripheral in my brain. Fail and it becomes real, irretrievable.
 
----
+The last week, night and day traded places—question banks and guides forming a looping, jittery datastream. When I hit that reservation button, my calendar application began the countdown, soft but relentless.
+I jumped from one material to the next, stumbling over unfamiliar terms, foreign names, each one feeding the fever. By the end, I was running hot—always-on, close to an error state, a little keystroke away from a kernel panic.
 
-### This is a header
 
-#### Some T-SQL Code
+#### EXAM DAY — TOKYO IN THE HEAT
+July, Shinjuku. Concrete canyons, sunlight ricocheting off glass facades. The instant I left the train, the city pressed in—humid, metallic, inescapable.
+Straight to the test center, ahead of schedule. The staff waved me through early; I entered the artificial cold, let sweat evaporate beneath fluorescent panels.
+In the restroom, I splashed water on my face, ran the figure “¥150,000” through my head, again and again. My hands wouldn’t stop shaking. The noise of the city felt dialed down, low-passed.
 
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
+Check-in: ID, biometrics, signatures. Half an energy drink in one go.
+There, in the glare of a flat display, I shoved my intention across the interface.
 
-#### Some PowerShell Code
+#### 100 QUESTIONS—LASER FOCUS
+Afternoon silence—start.
+Heart like a corrupted drive, thumping an erratic rhythm. There were questions I couldn’t parse—didn’t care. All I could do was grind forward, sharpen myself to one point: clear each prompt, no retrospection.
+I saw other candidates taking breaks; not me. I was committed to the straight run, a single uninterrupted data transfer.
 
-```powershell
-Write-Host "This is a powershell Code block";
+The numbers ticked up, my focus tightening, the world receding until only the next button existed. At question 100, I paused—a small silent plea, “Let it end here.”
+One last click, transition: end screen, then a survey, my keystrokes automated, distant, hands running out of voltage.
 
-# There are many other languages you can use, but the style has to be loaded first
+#### THE PASS & THE GHOST
+Paper slid across the counter—“Provisional Pass.”
+Out loud, “Yosshaaa!” burst from me, and the staff jolted.
+I reported to the company and filed for reimbursement.
+Afterward, the current drained out. No direction, no goal—just the shape of achievement, hollowed out for a week, floating through the circuitry of everyday life.
 
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
+#### THE NEXT STAGE—NEW TARGET
+Now, I’m scanning the city’s grid for OSS projects—somewhere to plug this security mindset, some real code, real actors, live terrain.
+The city lights haven’t changed, but something in my vector has.
+
+CISSP isn’t just another technical check.
+It’s a test that hones your way of thinking, chisels intent. The anxiety never leaves, but the only new landscape is the one you face by moving forward.
+
+This is a record with a pulse, colored neon, edged in the blue-white of LED nights—
+Searching for the next mission, under circuit-board skies.

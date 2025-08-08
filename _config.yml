@@ -1,13 +1,13 @@
-title: "on0sendaiの思索"
+title: "on0sendai’s Reflections"
 author: "on0sendai"
-description: "プログラミング技術、セキュリティ、ソフトウェアエンジニア." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Programming Techniques, Security, and Software Engineering"
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "nonono"
-twitter_username: "nonono"
+#email: "nonono"
+#twitter_username: "nonono"
 github_username: "on0sendai"
-linkedin_username: "nonono"
+#linkedin_username: "nonono"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
