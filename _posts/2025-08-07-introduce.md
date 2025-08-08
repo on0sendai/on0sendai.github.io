@@ -12,3 +12,6 @@ Technical revelations, code stories, and security battles
 Insights from life at the intersection of loyalty and innovation
 
 Reflections on technology and the spirit of the modern-day samurai
+
+#### English is my chosen code; Cyberpunk is my native frequency.
+Welcome—jack in and see the world through the eyes of a cybernetic company warrior. Because the future is being written, one keystroke at a time.
